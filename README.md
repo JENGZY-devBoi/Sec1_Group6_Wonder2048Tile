@@ -30,3 +30,6 @@ By using buttons up, down, left, right from the keyboard.
 Contributors names and contact info<br>
 💩[JENGZY](https://github.com/JENGZY-devBoi)<br>
 👻[Rosezii](https://www.instagram.com/w__rose__w/)
+
+---
+<img src="https://img.shields.io/github/watchers/JENGZY-devBoi/Sec1_Group6_Wonder2048Tile?style=for-the-badge" />
