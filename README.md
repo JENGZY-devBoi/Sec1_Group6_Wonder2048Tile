@@ -32,4 +32,4 @@ Contributors names and contact info<br>
 👻[Rosezii](https://www.instagram.com/w__rose__w/)
 
 ---
-<img src="https://img.shields.io/github/watchers/JENGZY-devBoi/Sec1_Group6_Wonder2048Tile?style=for-the-badge" />
+<img src="https://img.shields.io/github/watchers/JENGZY-devBoi/Sec1_Group6_Wonder2048Tile?style=social" />
