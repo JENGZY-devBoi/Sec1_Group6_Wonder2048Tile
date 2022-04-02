@@ -3,7 +3,7 @@
 
 ## Description
 It's a game created from c#.
-By using buttons up, down, left, right from the keyboard.
+Play this game by using buttons up, down, left, right from the keyboard.
 
 > <h3>step 1</h3>
 <p>
