@@ -2,7 +2,6 @@
 2048เกม สร้างโดยใช้ windows form application c# เป็นโปรเจคจบเทอม 2 ปี 1 ของพวกเรา เย้~ 5555+<br>
 
 ## Description
-It's a game created from c#.
 Play this game by using buttons up, down, left, right from the keyboard.
 
 > <h3>step 1</h3>
